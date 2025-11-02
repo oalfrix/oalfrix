@@ -2,50 +2,28 @@
 
 ###
 
-<p align="left">
-I'm a passionate full-stack developer, game concept designer, and creative mind from <b>Kenya 🇰🇪</b>.  
-I love building clean, fast, and smart web apps — especially those that blend creativity with tech.  
-Currently, I'm focused on <b>React</b>, <b>Tailwind CSS</b>, and <b>M-Pesa-powered automation</b> for digital stores.  
-When I'm not coding, I’m probably gaming, optimizing FPS on budget builds, or vibing with <b>Megan Ruth ❤️</b>.
-</p>
+<p align="left">I am a passionate programmer with experience in various programming languages and technologies. Currently, I am a student at Kibabii University in Kenya</p>
 
 ###
 
-<h2 align="left">🚀 What I’m Building</h2>
-
-###
-
-<ul align="left">
-  <li>🎮 <b>Game Store Website</b> — responsive, Tailwind-powered, with automated M-Pesa payments</li>
-  <li>🤖 <b>Telegram Bot</b> — sends STK Push for subscription systems</li>
-  <li>🌍 <b>Anonymous Social Platform</b> — a chill, faceless space for art & nature sharing</li>
-  <li>🧠 <b>React Game Concept</b> — teaches JavaScript through play</li>
-</ul>
-
-###
-
-<h2 align="left">🔧 Skills</h2>
+<h2 align="left">🔧Skills</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -54,7 +32,7 @@ When I'm not coding, I’m probably gaming, optimizing FPS on budget builds, or 
 
 ###
 
-<p align="left">🎓 Kibabii University — Bachelor’s in Computer Science (Ongoing)</p>
+<p align="left">Kibabii University, Kenya (Present)</p>
 
 ###
 
@@ -63,4 +41,23 @@ When I'm not coding, I’m probably gaming, optimizing FPS on budget builds, or 
 ###
 
 <div align="left">
-  <a href="https://instagram.com/oalfrix" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/mas_
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
+<h2 align="left">📷 Portfolio</h2>
+
+###
+
+<p align="left">Hello here is a link to my portfolio</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
